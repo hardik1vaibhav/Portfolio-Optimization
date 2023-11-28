@@ -23,3 +23,9 @@ Key principles of Modern Portfolio Theory include:
 6. **Sharpe Ratio:** The Sharpe ratio, named after William Sharpe, is a key metric in MPT. It measures the risk-adjusted return of a portfolio and helps investors assess whether the return earned is commensurate with the level of risk taken.
 
 Overall, Modern Portfolio Theory provides a quantitative framework for investors to make rational decisions about asset allocation, taking into account both the expected returns and the associated risks of different investments. Despite some criticisms and assumptions, MPT remains a foundational concept in portfolio management and investment theory.
+
+## Description of the portfolio inside my project
+1. **Diversification:**
+2. **Diversification:**
+3. **Diversification:**
+4. **Diversification:**
