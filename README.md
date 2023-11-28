@@ -25,7 +25,11 @@ Key principles of Modern Portfolio Theory include:
 Overall, Modern Portfolio Theory provides a quantitative framework for investors to make rational decisions about asset allocation, taking into account both the expected returns and the associated risks of different investments. Despite some criticisms and assumptions, MPT remains a foundational concept in portfolio management and investment theory.
 
 ## Description of the portfolio inside my project
-1. **Diversification:**
+1. **HDFC Bank Ltd.** - HDFC Bank Limited, headquartered in Mumbai, India, is a leading provider of banking and financial services across multiple regions, including India, Bahrain, Hong Kong, and Dubai. The company operates in three main segments: Wholesale Banking, Retail Banking, and Treasury Services.
+
+Additionally, HDFC Bank is involved in providing credit and debit cards, prepaid cards, and forex cards. The company offers a wide array of payment and collection services, export and import services, remittance services, and various insurance and investment products.
+
+The bank's involvement in wholesale banking, treasury services, and its extensive network of branches and ATMs are also noteworthy for equity research. Moreover, its online and mobile banking services, as well as its participation in financial solutions for supply chain partners and agricultural customers, contribute to its overall business profile.
 2. **Diversification:**
 3. **Diversification:**
 4. **Diversification:**
