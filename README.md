@@ -30,6 +30,7 @@ Overall, Modern Portfolio Theory provides a quantitative framework for investors
 Additionally, HDFC Bank is involved in providing credit and debit cards, prepaid cards, and forex cards. The company offers a wide array of payment and collection services, export and import services, remittance services, and various insurance and investment products.
 
 The bank's involvement in wholesale banking, treasury services, and its extensive network of branches and ATMs are also noteworthy for equity research. Moreover, its online and mobile banking services, as well as its participation in financial solutions for supply chain partners and agricultural customers, contribute to its overall business profile.
+
 2. **Diversification:**
 3. **Diversification:**
 4. **Diversification:**
